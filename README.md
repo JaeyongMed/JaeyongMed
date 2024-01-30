@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Jaeyong Kim, 5th year medical student in South Korea.
+
+I like coding.
+
+I am a heavy Anki user.
+
+jaeyongkim.gm@gmail.com
 <!--
 **JaeyongMed/JaeyongMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
